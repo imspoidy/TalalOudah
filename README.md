@@ -32,7 +32,3 @@
      * For XAMPP: `http://localhost/index.html`
      * For MAMP: `http://localhost:8888/index.html`
 
-### Troubleshooting
-
-* If the page doesn’t load, make sure Apache is running.
-* Ensure that the file is correctly placed in the `htdocs` directory.
